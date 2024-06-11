@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **JAVA, DSA, JS, Python, Web Dev**
+- 🌱 I’m currently learning **AWS, Terraform, Docker, Kubernetes, YAML, JSON, Python, Web Dev**
 
 - 📫 How to reach me **shashwat.spv.devlopment@gmail.com**
 
